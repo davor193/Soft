@@ -1,6 +1,0 @@
-Rezultat prepoznavanja potrebno transformisati u sledeci oblik:
-
-rez(int a, int b){
-	a++;
-	return a+b;
-}
